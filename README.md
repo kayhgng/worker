@@ -52,7 +52,7 @@ https://www.uuidgenerator.net/
 ## مرحله چهارم
 زیر گزینه deploy آدرس ورکر خودتون به مانند زیر رو کپی میکنید و بعد از / uuid خود را وارد میکنید
 
-https://workername.workers/dev/uuid
+https://workername.workers.dev/uuid
 
 و در مرورگر خود وارد ورکر خودتون میشید و کد vless خود را دریافت میکنید
 
