@@ -38,6 +38,7 @@ https://dash.cloudflare.com
 و ورکر را از آدرس زیر کد هاشو یا کپی میکنید یا ورکر رو دانلود میکنید و در ورکر کلودفلر خودتون آپلود یا paste میکنید.
 
 
+https://raw.githubusercontent.com/kayhgng/worker/main/worker.js
 ## مرحله سوم
 پس از مرحله دوم این کد رو اصلاح میکنیم 
 
